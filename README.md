@@ -1,7 +1,7 @@
 ### Hi there 👋🐰🥕
 
 <!--
-**yosukes-dev/yosukes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BolatovAlau/BolatovAlau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 
 ### 📊 My stats
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yosukes-dev&row=1&theme=onedark" alt="yosukes-dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BolatovAlau&row=1&theme=onedark" alt="BolatovAlau" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yosukes-dev&theme=onedark" alt="yosukes-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BolatovAlau&theme=onedark" alt="BolatovAlau" /></p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="232rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosukes-dev&theme=onedark" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="232rem" src="https://github-readme-stats.vercel.app/api?username=yosukes-dev&theme=onedark" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="232rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BolatovAlau&theme=onedark" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="232rem" src="https://github-readme-stats.vercel.app/api?username=BolatovAlau&theme=onedark" /></a>
